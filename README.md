@@ -1,0 +1,2 @@
+# omylord.github.io
+CV 
