@@ -1,2 +1,2 @@
 # omylord.github.io
-CV 
+Сайт-визитка 
